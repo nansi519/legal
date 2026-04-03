@@ -1,3 +1,6 @@
+---
+title: "Mood Support"
+---
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; line-height: 1.6; color: #333;">
 
 <h1 style="font-weight: 400; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; margin-top: 1.5em;">Mood — Support & Contact</h1>
